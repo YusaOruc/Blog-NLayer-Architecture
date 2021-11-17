@@ -1,0 +1,29 @@
+﻿
+@using EntityLayer.Concrate.EntityFramework
+@model List<Blog>
+
+<div class="card" style="width: 18rem;">
+    <div class="card-body">
+        <div class="w3-card-4">
+
+            <header class="w3-container w3-light-grey">
+                <h3 style="text-align:center">Son Yazılar</h3>
+            </header>
+            <div class="w3-container">
+                <hr>
+                @foreach (var item in Model)
+                {
+                <p> <a href="/Blog/BlogDetails/@item.ID" class="details-link" title="More Details"><i class="bx bx-link"></i></a> @item.BlogHeader</p>
+                    
+                    
+                }
+
+
+            </div>
+
+
+
+        </div>
+
+    </div>
+</div>

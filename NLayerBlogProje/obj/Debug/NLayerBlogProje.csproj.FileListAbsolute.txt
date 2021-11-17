@@ -1,0 +1,382 @@
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\NLayerBlogProje.dll.config
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\NLayerBlogProje.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\NLayerBlogProje.pdb
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\csc.exe
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\csc.exe.config
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\csc.rsp
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\csi.exe
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\csi.exe.config
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\csi.rsp
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.AppContext.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Console.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\vbc.exe
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\vbc.exe.config
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\vbc.rsp
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\Antlr3.Runtime.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\Newtonsoft.Json.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Web.Helpers.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Web.Mvc.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Web.Optimization.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Web.Razor.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Web.WebPages.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\WebGrease.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Web.Helpers.xml
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Web.Mvc.xml
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Web.Optimization.xml
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Web.Razor.xml
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Web.WebPages.xml
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\Newtonsoft.Json.xml
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\Antlr3.Runtime.pdb
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\obj\Debug\NLayerBlogProje.csprojAssemblyReference.cache
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\obj\Debug\NLayerBlogProje.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\obj\Debug\NLayerBlogProje.csproj.CopyComplete
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\obj\Debug\NLayerBlogProje.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\obj\Debug\NLayerBlogProje.pdb
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\DataAccessLayer.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\EntityLayer.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\EntityFramework.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\DataAccessLayer.pdb
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\DataAccessLayer.dll.config
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\EntityLayer.pdb
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\EntityLayer.dll.config
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\EntityFramework.xml
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\BusinessLayer2.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\BusinessLayer2.pdb
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\BusinessLayer2.dll.config
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\PagedList.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\PagedList.Mvc.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\PagedList.xml
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\PagedList.Mvc.xml
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\Microsoft.Win32.Primitives.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\netstandard.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.AppContext.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Collections.Concurrent.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Collections.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Collections.NonGeneric.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Collections.Specialized.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.ComponentModel.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.ComponentModel.Primitives.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Console.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Data.Common.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Diagnostics.Contracts.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Diagnostics.Debug.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Diagnostics.Process.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Diagnostics.StackTrace.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Diagnostics.Tools.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Diagnostics.TraceSource.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Diagnostics.Tracing.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Drawing.Primitives.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Dynamic.Runtime.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Globalization.Calendars.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Globalization.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Globalization.Extensions.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.IO.Compression.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.IO.Compression.ZipFile.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.IO.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.IO.FileSystem.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.IO.IsolatedStorage.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.IO.Pipes.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Linq.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Linq.Expressions.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Linq.Parallel.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Linq.Queryable.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Net.Http.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Net.NameResolution.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Net.NetworkInformation.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Net.Ping.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Net.Primitives.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Net.Requests.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Net.Security.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Net.Sockets.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Net.WebHeaderCollection.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Net.WebSockets.Client.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Net.WebSockets.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.ObjectModel.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Reflection.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Reflection.Extensions.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Reflection.Primitives.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Resources.Reader.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Resources.ResourceManager.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Resources.Writer.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Runtime.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Runtime.Extensions.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Runtime.Handles.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Runtime.InteropServices.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Runtime.Numerics.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Runtime.Serialization.Json.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Security.Claims.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Security.Cryptography.Csp.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Security.Principal.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Security.SecureString.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Text.Encoding.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Text.Encoding.Extensions.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Text.RegularExpressions.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Threading.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Threading.Overlapped.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Threading.Tasks.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Threading.Thread.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Threading.ThreadPool.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Threading.Timer.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.ValueTuple.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Xml.ReaderWriter.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Xml.XDocument.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Xml.XmlDocument.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Xml.XmlSerializer.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Xml.XPath.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\System.Xml.XPath.XDocument.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\FluentValidation.dll
+C:\Users\user\source\repos\NLayerBlogProje\NLayerBlogProje\bin\FluentValidation.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\NLayerBlogProje.dll.config
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\NLayerBlogProje.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\NLayerBlogProje.pdb
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\csc.exe
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\csc.exe.config
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\csc.rsp
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\csi.exe
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\csi.exe.config
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\csi.rsp
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\Microsoft.Managed.Core.targets
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.AppContext.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Collections.Immutable.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Console.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.IO.Compression.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.IO.FileSystem.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.IO.Pipes.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Reflection.Metadata.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Security.AccessControl.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Security.Claims.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Security.Principal.Windows.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.ValueTuple.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Xml.XmlDocument.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Xml.XPath.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\vbc.exe
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\vbc.exe.config
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\vbc.rsp
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\VBCSCompiler.exe
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\roslyn\VBCSCompiler.exe.config
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\Microsoft.Win32.Primitives.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\netstandard.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.AppContext.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Collections.Concurrent.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Collections.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Collections.NonGeneric.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Collections.Specialized.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.ComponentModel.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.ComponentModel.EventBasedAsync.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.ComponentModel.Primitives.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.ComponentModel.TypeConverter.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Console.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Data.Common.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Diagnostics.Contracts.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Diagnostics.Debug.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Diagnostics.FileVersionInfo.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Diagnostics.Process.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Diagnostics.StackTrace.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Diagnostics.Tools.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Diagnostics.TraceSource.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Diagnostics.Tracing.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Drawing.Primitives.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Dynamic.Runtime.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Globalization.Calendars.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Globalization.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Globalization.Extensions.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.IO.Compression.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.IO.Compression.ZipFile.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.IO.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.IO.FileSystem.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.IO.FileSystem.DriveInfo.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.IO.FileSystem.Primitives.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.IO.FileSystem.Watcher.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.IO.IsolatedStorage.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.IO.MemoryMappedFiles.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.IO.Pipes.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.IO.UnmanagedMemoryStream.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Linq.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Linq.Expressions.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Linq.Parallel.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Linq.Queryable.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Net.Http.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Net.NameResolution.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Net.NetworkInformation.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Net.Ping.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Net.Primitives.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Net.Requests.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Net.Security.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Net.Sockets.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Net.WebHeaderCollection.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Net.WebSockets.Client.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Net.WebSockets.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.ObjectModel.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Reflection.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Reflection.Extensions.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Reflection.Primitives.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Resources.Reader.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Resources.ResourceManager.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Resources.Writer.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Runtime.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Runtime.Extensions.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Runtime.Handles.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Runtime.InteropServices.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Runtime.Numerics.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Runtime.Serialization.Formatters.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Runtime.Serialization.Json.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Runtime.Serialization.Primitives.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Runtime.Serialization.Xml.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Security.Claims.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Security.Cryptography.Algorithms.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Security.Cryptography.Csp.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Security.Cryptography.Encoding.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Security.Cryptography.Primitives.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Security.Cryptography.X509Certificates.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Security.Principal.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Security.SecureString.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Text.Encoding.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Text.Encoding.Extensions.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Text.RegularExpressions.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Threading.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Threading.Overlapped.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Threading.Tasks.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Threading.Tasks.Parallel.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Threading.Thread.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Threading.ThreadPool.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Threading.Timer.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.ValueTuple.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Xml.ReaderWriter.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Xml.XDocument.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Xml.XmlDocument.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Xml.XmlSerializer.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Xml.XPath.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Xml.XPath.XDocument.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\Antlr3.Runtime.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\BusinessLayer2.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\DataAccessLayer.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\EntityFramework.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\EntityFramework.SqlServer.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\EntityLayer.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\FluentValidation.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\Microsoft.Web.Infrastructure.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\Newtonsoft.Json.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\PagedList.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\PagedList.Mvc.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Web.Helpers.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Web.Mvc.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Web.Optimization.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Web.Razor.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Web.WebPages.Deployment.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Web.WebPages.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Web.WebPages.Razor.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\WebGrease.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\BusinessLayer2.pdb
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\BusinessLayer2.dll.config
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\DataAccessLayer.pdb
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\DataAccessLayer.dll.config
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\EntityLayer.pdb
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\EntityLayer.dll.config
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\EntityFramework.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\EntityFramework.SqlServer.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\FluentValidation.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\PagedList.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\PagedList.Mvc.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Web.Helpers.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Web.Mvc.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Web.Optimization.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Web.Razor.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Web.WebPages.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Web.WebPages.Deployment.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\System.Web.WebPages.Razor.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\Newtonsoft.Json.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\Antlr3.Runtime.pdb
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\obj\Debug\NLayerBlogProje.csproj.AssemblyReference.cache
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\obj\Debug\NLayerBlogProje.csproj.CoreCompileInputs.cache
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\obj\Debug\NLayerBlogProje.csproj.CopyComplete
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\obj\Debug\NLayerBlogProje.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\NLayerBlogProje\obj\Debug\NLayerBlogProje.pdb

@@ -1,0 +1,23 @@
+﻿@using EntityLayer.Concrate.EntityFramework
+@model List<Skill>
+<div id="services" style="margin-bottom:-50px">
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-6">
+                    
+                    <span>@item.SkillsName</span><span style="float:right;">@item.Percent%</span>
+                    <div class="progress" style="height:12px;">
+
+                        <div class="progress-bar bg-success" role="progressbar" style="width: @item.Percent%" aria-valuenow="@item.Percent" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <br />
+                </div>
+            }
+
+
+
+        </div>
+    </div>
+</div>

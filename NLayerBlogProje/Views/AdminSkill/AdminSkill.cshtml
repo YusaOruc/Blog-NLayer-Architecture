@@ -1,0 +1,60 @@
+﻿@using EntityLayer.Concrate.EntityFramework
+@model PagedList.IPagedList<Skill>
+@using PagedList;
+@using PagedList.Mvc
+@{
+    ViewBag.Title = "AdminSkill";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<br />
+<br />
+
+
+<div id="services">
+    <div class="container">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Skills</th>
+                    <th scope="col" style="text-align:center;">Percent</th>
+                    <th scope="col">Güncelle</th>
+                    <th scope="col">Sil</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <th>@item.ID</th>
+                        <td style="width:100px;">@item.SkillsName</td>
+                        <td style="width:700px;padding-top:20px;margin-bottom:-20px;">
+                            <div class="progress" style="height:12px;">
+                                <div class="progress-bar bg-success" role="progressbar" style="width: @item.Percent%" aria-valuenow="@item.Percent" aria-valuemin="0" aria-valuemax="100">@item.Percent%</div>
+                            </div>
+                            <br />
+                        </td>
+                        <th style="width:70px;" scope="col"><a href="/AdminSkill/EditSkill/@item.ID" class="btn btn-primary">Güncelle</a></th>
+                        <th scope="col"><a href="/AdminSkill/DeleteSkill/@item.ID" class="btn btn-outline-danger">  Sil  </a></th>
+
+                    </tr>
+                }
+
+
+
+
+            </tbody>
+        </table>
+
+    </div>
+</div>
+@Html.PagedListPager((IPagedList)Model,p=>Url.Action("AdminSkill",new { p}),new PagedListRenderOptions
+{
+    LiElementClasses=new List<string> { "page-link"}
+})
+<a style="float:right;margin-top:-55px;margin-right:70px;width:154px;" href="/AdminSkill/AddSkills/" class="btn btn-outline-success">Yetenek Ekle</a>
+<br />
+<br />

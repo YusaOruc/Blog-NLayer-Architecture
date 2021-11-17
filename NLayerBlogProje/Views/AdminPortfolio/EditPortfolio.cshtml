@@ -1,0 +1,62 @@
+﻿@model EntityLayer.Concrate.EntityFramework.MyPortfolio
+@{
+    ViewBag.Title = "EditPortfolio";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+
+
+<div>
+    <div class="card card-primary">
+        <div class="card-header">
+            <h3 class="card-title">Portfolio Güncelle</h3>
+            <div class="card-tools">
+                <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip" title="Collapse">
+                    <i class="fas fa-minus"></i>
+                </button>
+            </div>
+        </div>
+
+        <div class="card-body">
+            @using (Html.BeginForm("EditPortfolio", "AdminPortfolio", FormMethod.Post,new { enctype = "multipart/form-data" }))
+            {
+            <div class="form-group">
+
+                @Html.HiddenFor(x => x.ID, new { @class = "form-control" })
+                <br />
+
+                @Html.TextBoxFor(x => x.Img, new { @class = "form-control" })
+
+                <br />
+                @Html.Label("Başlık")
+                @Html.TextBoxFor(x => x.Header, new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.Header, "", new { @class = "text-danger" })
+                <br />
+                @Html.Label("Konu")
+                @Html.TextBoxFor(x => x.Subject, new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.Subject, "", new { @class = "text-danger" })
+                <br />
+                @Html.Label("Kategori")
+                @Html.DropDownListFor(m => m.Category, new List<SelectListItem>
+                  { new SelectListItem{Text=".Net", Value="Web"},
+                    new SelectListItem{Text="Mobil", Value="Mobil"},
+                    new SelectListItem{Text="Ardunio", Value="Ardunio"}},new { @class = "form-control" })
+                <br />
+                <img id="imgshow" style="width:400px;height:300px;" src="@Html.DisplayFor(x => x.Img, new { @class = "form-control" })" />
+                <br /><br /><hr />
+
+                <input style="width:400px;float:left;" type="file" id="imgload" name="Img" class="btn btn-primary" />
+                <button style="float:right" class="btn btn-primary">Güncelle</button>
+            </div>
+                
+            }
+
+        </div>
+    </div>
+
+
+    <!-- /.card-body -->
+    <!-- /.card -->
+</div>
+

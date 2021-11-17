@@ -1,0 +1,140 @@
+﻿@using EntityLayer.Concrate.EntityFramework
+@model List<About>
+@{ var deger = DateTime.Now.Year - 1998; }
+<div id="about" class="paddsection">
+    <div class="container">
+        <div class="row justify-content-between">
+           
+            @*<div class="col-lg-4 ">
+                @foreach (var item in Model)
+                {
+                    <div class="about-img">
+                        <img style="width:350px;height:400px;margin-top:22px;" src="@item.Img" class="img-responsive" alt="me">
+                    </div>
+                }
+
+
+            </div>*@
+
+            <div class="col-lg-12">
+                <div class="about-descr">
+
+                    <p class="p-heading">Im a ux /ui designer austin based who loves clean, simple & unique design. i also enjoy crafting brand identities, icons, & ilustration work. </p>
+
+                </div>
+                <p class="separator">To an English person, it will seem like simplified English, as a skeptical Cambridge friend of mine told me what Occidental is. The European languages are members of the same family.English person.</p>
+
+                <br />
+                <div class="row" style="margin-top:-30px;margin-bottom:-30px;">
+                    @foreach (var item in Model)
+                    {
+                        <div class="col-5">
+                            <ul>
+                                <li>
+                                    <i class="bi bi-rounded-right"></i>
+                                    <strong>Mail:</strong> @item.Mail
+                                </li>
+                                <br />
+                                <li>
+                                    <i class="bi bi-rounded-right"></i>
+                                    <strong>City:</strong> @item.City
+                                </li>
+                                <br />
+                                <li>
+                                    <i class="bi bi-rounded-right"></i>
+                                    <strong>GitHub:</strong><a href="@item.GitHub"> My Account</a> 
+                                </li>
+                                <br />
+                            </ul>
+                        </div>
+                        <div class="col-5">
+                            <ul>
+
+                                <li>
+                                    <i class="bi bi-rounded-right"></i>
+                                    <strong>Degree:</strong> @item.Degree
+                                </li>
+                                <br />
+                                <li>
+                                    <i class="bi bi-rounded-right"></i>
+                                    <strong>Age:</strong> @deger
+                                </li>
+                                <br />
+                                <li>
+                                    <i class="bi bi-rounded-right"></i>
+                                    <strong>My Cv:</strong><a href="#"> Download</a>
+                                </li>
+                            </ul>
+                        </div>
+                    }
+
+
+                </div>
+                <p class="separator">To an English person,  as a skeptical Cambridge friend of mine told me what Occidental is. The European languages are members of the same family.English person.</p>
+
+            </div>
+        </div>
+    </div>
+</div>
+<div id="services">
+    <div class="container">
+
+        <div class="services-slider swiper-container" data-aos="fade-up" data-aos-delay="100">
+            <div class="swiper-wrapper">
+
+                <div class="swiper-slide">
+                    <div class="services-block">
+                        <i class="bi bi-briefcase"></i>
+                        <span>Asp.Net MVC</span>
+                        <p class="separator">Bu blog sitesi MVC ile yapıldı. </p>
+                    </div>
+                </div><!-- End testimonial item -->
+
+                <div class="swiper-slide">
+                    <div class="services-block">
+                        <i class="bi bi-card-checklist"></i>
+                        <span>SOLID</span>
+                        <p class="separator">Tamamen Solid prensiplerine uygun kod yazılmıştır. </p>
+                    </div>
+                </div><!-- End testimonial item -->
+
+                <div class="swiper-slide">
+                    <div class="services-block">
+                        <i class="bi bi-bar-chart"></i>
+                        <span>Bootstrap</span>
+                        <p class="separator">Arayüz için Boostrap Template kullanılmıştır.</p>
+                    </div>
+                </div><!-- End testimonial item -->
+
+                <div class="swiper-slide">
+                    <div class="services-block">
+                        <i class="bi bi-binoculars"></i>
+                        <span>N Layer Architecture</span>
+                        <p class="separator">Business,DataAccess,Entity ve UI katmanları Solid prensiplerine uygun olarak yazılmıştır. </p>
+                    </div>
+                </div><!-- End testimonial item -->
+
+                <div class="swiper-slide">
+                    <div class="services-block">
+                        <i class="bi bi-brightness-high"></i>
+                        <span>Analytics</span>
+                        <p class="separator">To an English person, it will seem like simplified English,told me what </p>
+                    </div>
+                </div><!-- End testimonial item -->
+
+                <div class="swiper-slide">
+                    <div class="services-block">
+                        <i class="bi bi-calendar4-week"></i>
+                        <span>PHOTOGRAPHY</span>
+                        <p class="separator">To an English person, it will seem like simplified English,told me what </p>
+                    </div>
+                </div><!-- End testimonial item -->
+
+            </div>
+            <div class="swiper-pagination"></div>
+        </div>
+
+    </div>
+
+</div>
+

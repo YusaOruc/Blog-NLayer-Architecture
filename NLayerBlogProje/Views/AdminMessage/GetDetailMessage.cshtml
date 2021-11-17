@@ -1,0 +1,44 @@
+﻿@model EntityLayer.Concrate.EntityFramework.Message
+
+@{
+    ViewBag.Title = "GetDetailMessage";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<br />
+<br />
+<div class="card card-primary card-outline">
+    <div class="card-header">
+        <h3 class="card-title">Mesaj Detayı</h3>
+
+    </div>
+    
+        <div class="card-body p-0">
+            <div class="mailbox-read-info">
+                <h5>@Html.DisplayFor(x => x.Subject)</h5>
+                <br />
+                <h6>
+                    From: @Html.DisplayFor(x=>x.UserMail)
+                    <span class="mailbox-read-time float-right">@DateTime.Parse(Html.DisplayFor(x => x.MessageDate).ToString()).ToShortDateString()</span>
+                </h6>
+            </div>
+            <!-- /.mailbox-read-info -->
+            <!-- /.mailbox-controls -->
+            <div class="mailbox-read-message">
+                <p>@Html.DisplayFor(x => x.User)</p>
+                <br />
+                <p>@Html.DisplayFor(x => x.UserMessage)</p>
+
+            </div>
+            <!-- /.mailbox-read-message -->
+        </div>
+    
+        
+    
+    <!-- /.card-header -->
+    <!-- /.card-body -->
+    <!-- /.card-footer -->
+    <div class="card-footer">
+
+    </div>
+    <!-- /.card-footer -->
+</div>

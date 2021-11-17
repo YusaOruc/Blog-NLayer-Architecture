@@ -1,0 +1,44 @@
+C:\Users\user\source\repos\NLayerBlogProje\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\user\source\repos\NLayerBlogProje\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\user\source\repos\NLayerBlogProje\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\user\source\repos\NLayerBlogProje\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\NLayerBlogProje\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\NLayerBlogProje\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\user\source\repos\NLayerBlogProje\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\user\source\repos\NLayerBlogProje\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\NLayerBlogProje\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\NLayerBlogProje\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\NLayerBlogProje\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\NLayerBlogProje\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\user\source\repos\NLayerBlogProje\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\user\source\repos\NLayerBlogProje\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\user\source\repos\NLayerBlogProje\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\user\source\repos\NLayerBlogProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_added_BlogTitle.resources
+C:\Users\user\source\repos\NLayerBlogProje\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\user\source\repos\NLayerBlogProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_updated_ımg.resources
+C:\Users\user\source\repos\NLayerBlogProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_added_message.resources
+C:\Users\user\source\repos\NLayerBlogProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_added_message_date.resources
+C:\Users\user\source\repos\NLayerBlogProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.added_adminTable.resources
+C:\Users\user\source\repos\NLayerBlogProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.added_in_blog_source.resources
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\DataAccessLayer\bin\Debug\EntityLayer.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\DataAccessLayer\bin\Debug\EntityLayer.pdb
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_added_BlogTitle.resources
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_updated_ımg.resources
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_added_message.resources
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_added_message_date.resources
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.added_adminTable.resources
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.added_in_blog_source.resources
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

@@ -1,0 +1,232 @@
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\BusinessLayer2.dll.config
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\BusinessLayer2.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\BusinessLayer2.pdb
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\DataAccessLayer.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\EntityLayer.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\DataAccessLayer.pdb
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\DataAccessLayer.dll.config
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\EntityLayer.pdb
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\EntityLayer.dll.config
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\obj\Debug\BusinessLayerdd.csprojAssemblyReference.cache
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\obj\Debug\BusinessLayerdd.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\obj\Debug\BusinessLayerdd.csproj.CopyComplete
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\obj\Debug\BusinessLayer2.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\obj\Debug\BusinessLayer2.pdb
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\netstandard.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.AppContext.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Collections.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Collections.Specialized.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.ComponentModel.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Console.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Data.Common.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Globalization.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.IO.Compression.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.IO.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.IO.FileSystem.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.IO.Pipes.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Linq.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Linq.Expressions.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Linq.Parallel.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Linq.Queryable.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Net.Http.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Net.NameResolution.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Net.Ping.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Net.Primitives.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Net.Requests.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Net.Security.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Net.Sockets.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Net.WebSockets.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.ObjectModel.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Reflection.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Resources.Reader.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Resources.Writer.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Runtime.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Runtime.Handles.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Security.Claims.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Security.Principal.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Security.SecureString.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Text.Encoding.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Threading.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Threading.Tasks.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Threading.Thread.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Threading.Timer.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.ValueTuple.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Xml.XDocument.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Xml.XPath.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\FluentValidation.dll
+C:\Users\user\source\repos\NLayerBlogProje\BusinessLayer2\bin\Debug\FluentValidation.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\BusinessLayer2.dll.config
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\BusinessLayer2.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\BusinessLayer2.pdb
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\netstandard.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.AppContext.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Collections.Concurrent.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Collections.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Collections.NonGeneric.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Collections.Specialized.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.ComponentModel.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.ComponentModel.Primitives.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Console.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Data.Common.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Diagnostics.Contracts.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Diagnostics.Debug.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Diagnostics.Process.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Diagnostics.Tools.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Diagnostics.Tracing.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Drawing.Primitives.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Dynamic.Runtime.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Globalization.Calendars.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Globalization.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Globalization.Extensions.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.IO.Compression.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.IO.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.IO.FileSystem.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.IO.IsolatedStorage.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.IO.Pipes.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Linq.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Linq.Expressions.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Linq.Parallel.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Linq.Queryable.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Net.Http.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Net.NameResolution.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Net.NetworkInformation.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Net.Ping.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Net.Primitives.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Net.Requests.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Net.Security.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Net.Sockets.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Net.WebSockets.Client.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Net.WebSockets.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.ObjectModel.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Reflection.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Reflection.Extensions.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Reflection.Primitives.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Resources.Reader.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Resources.ResourceManager.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Resources.Writer.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Runtime.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Runtime.Extensions.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Runtime.Handles.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Runtime.InteropServices.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Runtime.Numerics.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Security.Claims.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Security.Principal.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Security.SecureString.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Text.Encoding.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Text.RegularExpressions.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Threading.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Threading.Overlapped.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Threading.Tasks.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Threading.Thread.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Threading.ThreadPool.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Threading.Timer.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.ValueTuple.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Xml.ReaderWriter.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Xml.XDocument.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Xml.XmlDocument.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Xml.XmlSerializer.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Xml.XPath.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\DataAccessLayer.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\EntityFramework.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\EntityFramework.SqlServer.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\EntityLayer.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\FluentValidation.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\DataAccessLayer.pdb
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\DataAccessLayer.dll.config
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\EntityLayer.pdb
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\EntityLayer.dll.config
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\EntityFramework.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\EntityFramework.SqlServer.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\bin\Debug\FluentValidation.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\obj\Debug\BusinessLayerdd.csproj.AssemblyReference.cache
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\obj\Debug\BusinessLayerdd.csproj.CoreCompileInputs.cache
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\obj\Debug\BusinessLayerdd.csproj.CopyComplete
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\obj\Debug\BusinessLayer2.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\NLayerBlog\Kod\NLayerBlogProje\BusinessLayer2\obj\Debug\BusinessLayer2.pdb

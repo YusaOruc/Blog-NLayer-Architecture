@@ -1,0 +1,64 @@
+﻿@using EntityLayer.Concrate.EntityFramework
+@model List<Home>
+@{
+    ViewBag.Title = "HomeIndex";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="hero-content">
+        @foreach (var item in Model)
+        {
+            <h1>I'm <span class="typed" data-typed-items="@item.TopTitle"></span></h1>
+            <p>@item.BottomTitle</p>
+
+        }
+
+        <ul class="list-unstyled list-social">
+            <li><a href="#"><i class="bi bi-facebook"></i></a></li>
+            <li><a href="#"><i class="bi bi-twitter"></i></a></li>
+            <li><a href="#"><i class="bi bi-instagram"></i></a></li>
+            <li><a href="#"><i class="bi bi-linkedin"></i></a></li>
+        </ul>
+    </div>
+</div>
+<main id="main">
+    @Html.Action("AboutIndex", "About")
+    @Html.Action("SkillsIndex", "Skills")
+    @Html.Action("PortfolioIndex", "Portfolio")
+    @Html.Action("BlogIndex", "Blog")
+    @Html.Action("ContactIndex", "Contact")
+    <br />
+
+</main>
+<div id="footer" class="text-center">
+    <div class="container">
+        <div class="socials-media text-center">
+
+            <ul class="list-unstyled">
+                <li><a href="#"><i class="bi bi-facebook"></i></a></li>
+                <li><a href="#"><i class="bi bi-twitter"></i></a></li>
+                <li><a href="#"><i class="bi bi-instagram"></i></a></li>
+                <li><a href="#"><i class="bi bi-linkedin"></i></a></li>
+            </ul>
+
+        </div>
+        <div class="mt-0">
+
+            <a class="btn btn-defeault btn-send" href="/Login/Index/">Admin Panel</a>
+        </div>
+        <br />
+        <p>&copy; Copyrights Folio. All rights reserved.</p>
+
+        <div class="credits">
+            <!--
+          All the links in the footer should remain intact.
+          You can delete the links only if you purchased the pro version.
+          Licensing information: https://bootstrapmade.com/license/
+          Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Folio
+        -->
+            Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        </div>
+
+    </div>
+</div><!-- End Footer -->

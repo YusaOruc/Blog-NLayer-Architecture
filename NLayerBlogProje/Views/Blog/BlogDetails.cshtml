@@ -1,0 +1,159 @@
+﻿@model EntityLayer.Concrate.EntityFramework.Blog
+
+@{
+    ViewBag.Title = "BlogDetails";
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <title>Folio Bootstrap Template - Blog Single</title>
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+
+    <!-- Favicons -->
+    <link href="~/Folio/Folio/assets/img/favicon.png" rel="icon">
+    <link href="~/Folio/Folio/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i|Playfair+Display:400,400i,500,500i,600,600i,700,700i,900,900i" rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="~/Folio/Folio/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/Folio/Folio/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="~/Folio/Folio/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="~/Folio/Folio/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="~/Folio/Folio/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+    <!-- Template Main CSS File -->
+    <link href="~/Folio/Folio/assets/css/style.css" rel="stylesheet">
+
+    <!-- =======================================================
+    * Template Name: Folio - v4.3.0
+    * Template URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
+    * Author: BootstrapMade.com
+    * License: https://bootstrapmade.com/license/
+    ======================================================== -->
+</head>
+
+<body>
+
+    <!-- ======= Header ======= -->
+    <header id="header" class="fixed-top header-inner-pages">
+        <div class="container d-flex align-items-center justify-content-between">
+
+            <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>
+            <!-- Uncomment below if you prefer to use an text logo -->
+            <!-- <h1 class="logo"><a href="index.html">Folio</a></h1> -->
+
+            <nav id="navbar" class="navbar">
+                <ul>
+                    <li><a class="nav-link scrollto " href="/Home/HomeIndex/">Home</a></li>
+                    <li><a class="nav-link scrollto" href="/Home/HomeIndex/#about">About</a></li>
+                    <li><a class="nav-link  scrollto" href="/Home/HomeIndex/#portfolio">Portfolio</a></li>
+                    <li><a class="nav-link active  scrollto" href="/Home/HomeIndex/#journal">Blog</a></li>
+
+                    <li><a class="nav-link scrollto" href="/Home/HomeIndex/#contact">Contact</a></li>
+                </ul>
+                <i class="bi bi-list mobile-nav-toggle"></i>
+            </nav><!-- .navbar -->
+
+        </div>
+    </header><!-- End Header -->
+    <main id="main">
+
+        <!-- ======= Blog Single ======= -->
+        <div class="main-content paddsection">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="container-main single-main">
+                        <div class="row" >
+
+                            <div class="col-8">
+                                <div class="block-main mb-30">
+                                    <img style="width:740px;height:500px;" src="@Html.DisplayFor(x=>x.Img)">
+                                    <div class="content-main single-post padDiv">
+                                        <div class="journal-txt">
+                                            <h4><a href="#">@Html.DisplayFor(x => x.BlogHeader)</a></h4>
+                                        </div>
+                                        <div class="post-meta">
+                                            <ul class="list-unstyled mb-0">
+                                                <li class="author">by:<a href="#">Yuşa Oruç</a></li>
+                                                <li class="date">date:<a href="#">@DateTime.Parse(Html.DisplayFor(x => x.BlogDate).ToString()).ToShortDateString()</a></li>
+                                                <li class="commont"><i class="ion-ios-heart-outline"></i><a href="@Html.DisplayFor(x => x.Source)">Kaynak</a></li>
+                                            </ul>
+                                        </div>
+                                        <p class="mb-30">
+                                            @Html.DisplayFor(x => x.BlogArticle1)
+                                        </p>
+                                        <p class="mb-30">
+                                            @Html.DisplayFor(x => x.BlogArticle2)
+                                        </p>
+
+                                        <p class="mb-30">
+                                            @Html.DisplayFor(x => x.BlogArticle3)
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-4">
+                                @Html.Action("BlogDetailsLastWord", "Blog")
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- End Blog Single -->
+
+    </main>
+    <!-- End #main -->
+    <!-- ======= Footer ======= -->
+    <div id="footer" class="text-center">
+        <div class="container">
+            <div class="socials-media text-center">
+
+                <ul class="list-unstyled">
+                    <li><a href="#"><i class="bi bi-facebook"></i></a></li>
+                    <li><a href="#"><i class="bi bi-twitter"></i></a></li>
+                    <li><a href="#"><i class="bi bi-instagram"></i></a></li>
+                    <li><a href="#"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+
+            </div>
+
+            <p>&copy; Copyrights Folio. All rights reserved.</p>
+
+            <div class="credits">
+                <!--
+                  All the links in the footer should remain intact.
+                  You can delete the links only if you purchased the pro version.
+                  Licensing information: https://bootstrapmade.com/license/
+                  Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Folio
+                -->
+                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+            </div>
+
+        </div>
+    </div><!-- End Footer -->
+
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+    <!-- Vendor JS Files -->
+    <script src="~/Folio/Folio/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/Folio/Folio/assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="~/Folio/Folio/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="~/Folio/Folio/assets/vendor/php-email-form/validate.js"></script>
+    <script src="~/Folio/Folio/assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="~/Folio/Folio/assets/vendor/typed.js/typed.min.js"></script>
+
+    <!-- Template Main JS File -->
+    <script src="~/Folio/Folio/assets/js/main.js"></script>
+
+</body>
+
+</html>
+
+

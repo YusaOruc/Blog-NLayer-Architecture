@@ -1,0 +1,63 @@
+﻿@using EntityLayer.Concrate.EntityFramework
+@model List<About>
+
+@{
+    ViewBag.Title = "AdminAbout";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="card bg-light" style="height:600px;">
+    <div class="card-header text-muted border-bottom-0">
+        About
+    </div>
+    @foreach (var item in Model)
+    {
+        <div class="card-body pt-0" style="margin-left:200px;margin-top:200px;">
+            <div class="row">
+
+                <div class="col-5 text-center" style="margin-left:-200px;margin-top:-180px;">
+                    <img style="width:300px;height:350px;" src="@item.Img" alt="" class="img-circle img-fluid">
+                </div>
+                <div class="col-8" style="margin-top:-150px;">
+                    <h2 class="lead"><b>Yuşa Oruç</b></h2>
+                    <p><strong>Im a ux /ui designer austin based who loves clean, simple & unique design. i also enjoy crafting brand identities, icons, & ilustration work.</strong></p>
+                    <p>To an English person, it will seem like simplified English, as a skeptical Cambridge friend of mine told me what Occidental is. The European languages are members of the same family.English person.</p>
+
+                    <div class="row">
+                        <div class="col-5">
+                            <ul class="ml-4 mb-0 fa-ul text-muted">
+                                <li class="small"><span class="fa-li"><i class="fas fa-lg fa-graduation-cap"></i></span> Degree: @item.Degree</li>
+                                <br />
+                                <li class="small"><span class="fa-li"><i class="fas fa-lg fa-envelope"></i></span> Mail : @item.Mail</li>
+                            </ul>
+                        </div>
+                        <div class="col-7">
+                            <ul class="ml-4 mb-0 fa-ul text-muted">
+                                <li class="small"><span class="fa-li"><i class="fas fa-lg fa-city"></i></span> City: @item.City</li>
+                                <br />
+                                <li class="small"><span class="fa-li"><i class="fas fa-lg fa-link"></i></span> GitHub : @item.GitHub</li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                    <br />
+
+
+                    <p>To an English person, as a skeptical Cambridge friend of mine told me what Occidental is. The European languages are members of the same family.English person.</p>
+                </div>
+
+
+
+            </div>
+        </div>
+        <div class="card-footer">
+            <div class="text-right">
+
+                <a href="/AdminAbout/EditAbout/@item.ID" class="btn btn-sm btn-primary">
+                    <i class="fa fa-edit" aria-hidden="true"></i> Güncelle
+                </a>
+            </div>
+        </div>
+     }
+</div>

@@ -1,0 +1,25 @@
+﻿@using EntityLayer.Concrate.EntityFramework
+@model  List<Home>
+@{
+    ViewBag.Title = "AdminHome";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<br />
+<br />
+<link href="~/Folio/Folio/assets/css/style.css" rel="stylesheet">
+
+<div style="border: 5px solid #555;width:100%; border-radius:47px;" class="hero-content">
+    @foreach (var item in Model)
+    {
+        <img src="~/Folio/Folio/assets/img/5.jpg" alt="Snow" style="width:100%;border-radius:40px;">
+        <div style=" position: absolute;top: 40%;left: 25%;">
+            <h1>I'm <span>@item.TopTitle.Substring(0,9) ...</span></h1>
+            <p>@item.BottomTitle</p>
+        </div>
+        <div style=" position: absolute;top: 80%;left: 87%;">
+            <a href="/AdminHome/EditHome/@item.ID" class="btn btn-primary">Güncelle</a>
+        </div>
+    }
+
+</div>
+
